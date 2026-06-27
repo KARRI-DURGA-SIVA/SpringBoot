@@ -1,5 +1,10 @@
 HELP.md
 target/
+<<<<<<< HEAD
+=======
+run.log
+run.err
+>>>>>>> 4ab3ae50673b727c3e6a56489ae53c63728086e2
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
